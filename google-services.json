@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80626189079",
+    "project_id": "igarciageopics",
+    "storage_bucket": "igarciageopics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80626189079:android:4eb1668a2091dd0e31ad52",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.isaiahgarcia.igarciageopics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80626189079-69k4mmupit5ra8hv94icvkg3vev5ugi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ucsb.cs.cs184.isaiahgarcia.igarciageopics",
+            "certificate_hash": "26bd843efca5eaca9bebf150b6bbc2bf605a1276"
+          }
+        },
+        {
+          "client_id": "80626189079-93lavp63n0fanq2735tcharrlqfn2vik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCks-lxmghYKWu44JA2ueN7CzaYOp8vTYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80626189079-93lavp63n0fanq2735tcharrlqfn2vik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

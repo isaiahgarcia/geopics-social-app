@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">igarciaGeoPics</string>
+    <string name="title_activity_maps">igarciaGeoPics</string>
+    <string name="google_map_api_key">AIzaSyA1_cRMnWOvu9Fd1xNx9D9THL3CvQAzwK0</string>
+    <string name="firebase_api_key">AIzaSyCks-lxmghYKWu44JA2ueN7CzaYOp8vTYU</string>
+    <string name="register_text">Register</string>
+    <string name="login_text">Login</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="already_registered_text">Already registered?</string>
+    <string name="login_here_text">Login here</string>
+    <string name="photo">Take Photo</string>
+    <string name="not_registered_text">Not registered?</string>
+    <string name="register_here_text">Register here</string>
+    <string name="collection_users">users</string>
+    <string name="collection_user_locations">user locations</string>
+    <string name="intent_chatroom">intent_chatroom</string>
+    <string name="intent_user_list">intent_user_list</string>
+    <string name="intent_user_locations">intent_user_locations</string>
+    <string name="intent_location">intent_location</string>
+    <string name="fragment_user_list">User List</string>
+    <string name="fragment_image_list">Image List</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_camera">Camera</string>
+</resources>
